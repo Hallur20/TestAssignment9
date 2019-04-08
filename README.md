@@ -26,5 +26,5 @@ we have included the jmx file (ASSIGNMENT9.jmx) if you wish to test it in jmeter
 <img src="https://github.com/Hallur20/TestAssignment9/blob/master/Allowed.PNG"/>
 <img src="https://github.com/Hallur20/TestAssignment9/blob/master/NotAllowed.PNG"/>
 <img src="https://github.com/Hallur20/TestAssignment9/blob/master/tableLog.PNG"/>
-<img src="https://github.com/Hallur20/TestAssignment9/blob/master/blazeMeterTest.PNG"/>
+<img src="https://github.com/Hallur20/TestAssignment9/blob/master/blazeMeterTest.png"/>
 
