@@ -22,8 +22,12 @@ we have included the jmx file (ASSIGNMENT9.jmx) if you wish to test it in jmeter
 you can check the parameters of the users in this csv file: <a href="https://github.com/Hallur20/TestAssignment9/blob/master/login.csv">link</a>
 
 
+<p>image below shows the user hallur and the password 123 which returns "that was true"</p>
 <img src="https://github.com/Hallur20/TestAssignment9/blob/master/Allowed.PNG"/>
+<p>image below shows the user jens and the password 999 which returns "that was false"</p>
 <img src="https://github.com/Hallur20/TestAssignment9/blob/master/NotAllowed.PNG"/>
+<p>the overall result in a table format</p>
 <img src="https://github.com/Hallur20/TestAssignment9/blob/master/tableLog.PNG"/>
+<p>running the script in blazemeter with 50 users from singapore</p>
 <img src="https://github.com/Hallur20/TestAssignment9/blob/master/blazeMeterTest.png"/>
 
