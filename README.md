@@ -19,3 +19,8 @@ http://hallur.dk/TestAssignment9/
 the post request page is:
 
 http://hallur.dk/TestAssignment9/Login
+
+
+<img src="https://github.com/Hallur20/TestAssignment9/blob/master/Allowed.PNG"/>
+<img src="https://github.com/Hallur20/TestAssignment9/blob/master/NotAllowed.PNG"/>
+<img src="https://github.com/Hallur20/TestAssignment9/blob/master/tableLog.PNG"/>
